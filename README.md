@@ -28,7 +28,7 @@ throughout cardiogenesis.
 
 ## 📖 Key Publications
 
--  **A virtual model of the mouse embryonic heart reveals tissue dynamics underlying heart tube formation. Raiola et al.,2025a**  
+-  **Quantitative computerized analysis demonstrates strongly compartmentalized tissue deformation patterns underlying mammalian heart tube formationn. Raiola et al.,2025a**  
   [🔗 Link to paper]
 
 -  **A method for analysing tissue motion and deformation during mammalian organogenesis. Raiola et al.,2025b**  
