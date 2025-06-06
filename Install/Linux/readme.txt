@@ -35,7 +35,7 @@ If you get a "Permission denied" error, grant execution permissions with:
 
         ```bash
         chmod +x BarrelHeartModel
-   
+   then,
        ./run_BarrelHeartModel.sh <mcr_directory> <argument_list>
        
     at Linux or Mac command prompt. <mcr_directory> is the directory 
