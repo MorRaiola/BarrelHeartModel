@@ -27,6 +27,14 @@ Files to Package for Standalone
 -run_BarrelHeartModel.sh (shell script for temporarily setting environment variables and 
                           executing the application)
    -to run the shell script, type
+
+## Important
+
+Before running `./run_BarrelHeartModel.sh`, make sure the `BarrelHeartModel` file is executable.  
+If you get a "Permission denied" error, grant execution permissions with:
+
+        ```bash
+        chmod +x BarrelHeartModel
    
        ./run_BarrelHeartModel.sh <mcr_directory> <argument_list>
        
