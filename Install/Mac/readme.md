@@ -8,7 +8,7 @@ Due to macOS Gatekeeper protections, the app must be unzipped and granted permis
 
 ---
 
-## 📦 Installation Instructions (macOS)
+## Installation Instructions (macOS)
 
 ### 1. Download the App
 
